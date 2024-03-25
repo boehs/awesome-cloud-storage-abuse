@@ -2,6 +2,11 @@
 
 "Unlimited" file storage is a joke. For a while there, tech companies were more than willing to hand out free, unlimited storage (rip google photos). But unlimited storage can be found in the most unlikely of places.
 
+# Crazy Ideas
+
+- Desmos Equations
+- Cloudflare Radar Screenshots: https://radar.cloudflare.com/scan
+
 # Discord
 
 Discord offers unlimited file storage in 25mb chunks for free.
