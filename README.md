@@ -27,6 +27,16 @@ Telegram offers unlimited file storage in 2gb chunks for free
 
 - [SlavikMIPT/tgcloud](https://github.com/SlavikMIPT/tgcloud) 530 💫
 
+# Pi
+
+Store data in Pi!
+
+[πfs](https://github.com/philipl/pifs) 6.7k 💫
+
 # Others
 
 - Instagram
+- ChatGPT:
+  - Tip of IceBerg: Storing data in your prompts
+  - Middleground: Storing data in images you upload
+  - Depths: Cohorsing ChatGPT into outputting the information you wish to store
