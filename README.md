@@ -17,13 +17,22 @@ Store data in Pi!
 
 [πfs](https://github.com/philipl/pifs) 6.7k 💫
 
-## Ping, Tetris
+## Ping
 
-[Harder Drives](https://www.youtube.com/watch?v=JcJSW7Rprio)
+- [Harder Drives](https://www.youtube.com/watch?v=JcJSW7Rprio), also featuring Tetris and Moon based storage
+- [pingfs](https://github.com/yarrick/pingfs) 3.1k 💫
 
 ## Google Calendar
 
 [whenfs](https://github.com/lvkv/whenfs) 1.4k 💫
+
+## Email Bounces
+
+[Juggling With Packets](https://lcamtuf.coredump.cx/juggling_with_packets.txt)
+
+# Old Ideas
+
+- [Delay-line Memory](https://en.wikipedia.org/wiki/Delay-line_memory)
 
 # Boring Ideas
 
