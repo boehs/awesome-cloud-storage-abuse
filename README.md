@@ -21,6 +21,10 @@ Store data in Pi!
 
 [Harder Drives](https://www.youtube.com/watch?v=JcJSW7Rprio)
 
+## Google Calendar
+
+[whenfs](https://github.com/lvkv/whenfs)
+
 # Boring Ideas
 
 ## Discord
