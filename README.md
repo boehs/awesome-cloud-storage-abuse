@@ -5,6 +5,7 @@
 # Crazy Ideas
 
 - Desmos Equations
+  - Also lets you upload images!
 - Cloudflare Radar Screenshots: https://radar.cloudflare.com/scan
 - ChatGPT:
   - Tip of IceBerg: Storing data in your prompts
