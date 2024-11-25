@@ -23,7 +23,7 @@ Store data in Pi!
 
 ## Google Calendar
 
-[whenfs](https://github.com/lvkv/whenfs)
+[whenfs](https://github.com/lvkv/whenfs) 1.4k 💫
 
 # Boring Ideas
 
